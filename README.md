@@ -1,5 +1,5 @@
 # Photo-Colorizer
-Photo Colorizer Website
+Black and white image colorization with OpenCV.
 
 # Overview
 Image colorization is the process of taking an input grayscale (black and white) image and then producing an output colorized image that represents the semantic colors and tones of the input.
